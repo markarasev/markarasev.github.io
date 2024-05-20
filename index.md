@@ -1,3 +1,1 @@
-# 👋 Hello I'm Marc
-
-Hello World
+👋 hello, I'm Marc
