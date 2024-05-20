@@ -1,1 +1,5 @@
-👋 hello, I'm Marc
+---
+layout: default
+---
+
+# Hello, I'm Marc 👋
