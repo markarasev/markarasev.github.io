@@ -3,8 +3,16 @@
 
 @import "{{ site.theme }}";
 
-#content {
+p {
     text-align: justify;
+}
+
+.ol {
+    text-align: left;
+}
+
+.ul {
+    text-align: left;
 }
 
 // profile picture
