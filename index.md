@@ -20,13 +20,13 @@ I'm also involved in programming communities such as the organization of the [Sc
 
 ## What I'm looking for 👥
 
- - &nbsp; Real **team work** (not working in individual silos) / **extreme programming**
- - &nbsp; High throughput / scaling **challenges**
- - &nbsp; **People** to mentor
- - &nbsp; People able to **mentor me**
- - &nbsp; **Tech culture**
- - &nbsp; **Purpose** (unfortunately it is hard to come-up here with a concrete list of meaningful subjects to me)
- {: style='list-style-type: "\2705"'}
+ - Real **team work** (not working in individual silos) / **extreme programming**
+ - High throughput / scaling **challenges**
+ - **People** to mentor
+ - People able to **mentor me**
+ - **Tech culture**
+ - **Purpose** (unfortunately it is hard to come-up here with a concrete list of meaningful subjects to me)
+ {: class='checklist'}
 
 If your project meets some of the above criteria, please email-me at [hello@markarasev.me](mailto:hello@markarasev.me)
 

@@ -57,3 +57,10 @@ p {
         max-height: 100px;
     }
 }
+
+.checklist {
+    list-style: "\2705";
+    li {
+        padding-left: 0.5rem;
+    }
+}
