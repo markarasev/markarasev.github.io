@@ -12,7 +12,7 @@ I'm also involved in programming communities such as the organization of the [Sc
 
 ## What I do ☕️
 
-- **Understand** and analyze your business problem (sometimes the best thing to do may be to do nothing)
+- **Understand** and analyze your business problem (sometimes the best thing to do may be nothing)
 - **Design** solutions
 - **Build** them
 - **Mentor** and help other people with software development and programming
@@ -20,14 +20,13 @@ I'm also involved in programming communities such as the organization of the [Sc
 
 ## What I'm looking for 👥
 
-I am currently available for hire, here's a list of project characteristics I'm looking for my next assignment:
-
- - Real **team work** (not working in individual silos) / **extreme programming**
- - High throughput / scaling **challenges**
- - **People** to mentor
- - People able to **mentor me**
- - **Tech culture**
- - **Purpose** (unfortunately it is hard to come-up here with a concrete list of meaningful subjects to me)
+ - &nbsp; Real **team work** (not working in individual silos) / **extreme programming**
+ - &nbsp; High throughput / scaling **challenges**
+ - &nbsp; **People** to mentor
+ - &nbsp; People able to **mentor me**
+ - &nbsp; **Tech culture**
+ - &nbsp; **Purpose** (unfortunately it is hard to come-up here with a concrete list of meaningful subjects to me)
+ {: style='list-style-type: "\2705"'}
 
 If your project meets some of the above criteria, please email-me at [hello@markarasev.me](mailto:hello@markarasev.me)
 
@@ -39,15 +38,15 @@ Also, I'd like to work part-time on a **4 days a week** basis.
 
 ## Experience 👨‍💻
 
-### Technical Lead - Quansic - 2020-2024
+### **Technical Lead** • Quansic • *2020 - 2024*
 
 I was part of [Quansic](https://quansic.com/), a music industry startup, from its early days to its [buyout by Luminate](https://luminatedata.com/blog/quansic-aquisition-press-release/), a preeminent entertainment data company. During this journey, I was deeply involved in designing and building Quansic's software system to make it **grow from a proof of concept to an ecosystem of products** with real-time integrations. I also enjoyed sharing knowledge and training new teammates.
 
-### Software Developer - Transparency Rights Management - 2018-2020
+### **Software Developer** • Transparency Rights Management • *2018 - 2020*
 
 I actively participated to the development of Track&Claim Sales, now known as [Musirev](https://www.balada.io), a digital revenue management service for music distributors and labels.
 
-### Software Developer - Lizeo Online Media Group - 2016-2018
+### **Software Developer** • Lizeo Online Media Group • *2016 - 2018*
 
 Redesign of the data processing engine at Lizeo from ETL and batch approaches to services and streaming techniques in order to enable scalability.
 
@@ -69,4 +68,4 @@ Computer Science Engineer's Degree at Polytech Nice-Sophia (master's degree), gr
  - Music
  - Tennis
 
-[contact me](mailto:hello@markarasev.me)
+## [Contact](mailto:hello@markarasev.me)
