@@ -7,19 +7,45 @@
     text-align: justify;
 }
 
-// header
+// profile picture
+#pp {
+    border-radius: 50%;
+    margin-right: 2rem;
+}
+
+.page-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.project-tagline {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 @media screen and (min-width: 64em) {
     .page-header {
         padding: 3rem 6rem;
+    }
+    #pp {
+        max-height: 200px;
     }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
     .page-header {
         padding: 2rem 4rem;
     }
+    #pp {
+        max-height: 150px;
+    }
 }
 @media screen and (max-width: 42em) {
     .page-header {
         padding: 1rem 1rem;
+    }
+    #pp {
+        max-height: 100px;
     }
 }
