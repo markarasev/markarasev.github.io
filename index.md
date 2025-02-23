@@ -12,7 +12,7 @@ I'm also involved in programming communities such as the organization of the [Sc
 
 ## What I do ☕️
 
-- **Understand** and analyze your business problem (sometimes the best thing to do may be nothing)
+- **Understand** and analyze your business problem
 - **Design** solutions
 - **Build** them
 - **Mentor** and assist others with software development and programming
