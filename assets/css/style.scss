@@ -64,3 +64,102 @@ p {
         padding-left: 0.5rem;
     }
 }
+
+// Tags
+
+@mixin tag {
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    margin-right: 8px;
+    opacity: 60%;
+    padding: 6px;
+}
+
+.akka {
+    @include tag;
+    background-color: #326d9e;
+}
+.akka::after {
+    content: "Akka"
+}
+
+.beam {
+    @include tag;
+    background-color: #38a269;
+}
+.beam::after {
+    content: "Apache Beam"
+}
+
+.df {
+    @include tag;
+    background-color: #146d82;
+}
+.df::after {
+    content: "Google Dataflow"
+}
+
+.hadoop {
+    @include tag;
+    background-color: #146d82;
+}
+.hadoop::after {
+    content: "Hadoop"
+}
+
+.kafka {
+    @include tag;
+    background-color: #146d82;
+}
+.kafka::after {
+    content: "Kafka"
+}
+
+.neo4j {
+    @include tag;
+    background-color: #146d82;
+}
+.neo4j::after {
+    content: "Neo4J"
+}
+
+.play {
+    @include tag;
+    background-color: #38a269;
+}
+.play::after {
+    content: "Play"
+}
+
+.pg {
+    @include tag;
+    background-color: #326d9e;
+}
+.pg::after {
+    content: "PostgreSQL"
+}
+
+.scala {
+    @include tag;
+    background-color: #158967;
+}
+.scala::after {
+    content: "Scala"
+}
+
+.spark {
+    @include tag;
+    background-color: #38a269;
+}
+.spark::after {
+    content: "Spark"
+}
+
+.ts {
+    @include tag;
+    background-color: #326d9e;
+}
+.ts::after {
+    content: "TypeScript"
+}

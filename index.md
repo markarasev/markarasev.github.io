@@ -42,13 +42,19 @@ Additionally, I would prefer to work part-time on a **4 days workweek** basis.
 
 I was part of [Quansic](https://quansic.com/), a music industry startup, from its early days to its [buyout by Luminate](https://luminatedata.com/blog/quansic-aquisition-press-release/), a preeminent entertainment data company. During this journey, I was deeply involved in designing and building Quansic's software system, **evolving it from a proof of concept to a robust ecosystem of products**. I also enjoyed sharing knowledge and training new teammates.
 
+<span class="scala"/><span class="ts"/><span class="neo4j"/><span class="pg"/><span class="beam"/><span class="df"/>
+
 ### **Software Developer** • Transparency Rights Management • *2018 - 2020*
 
 I actively contributed to the development of Track&Claim Sales, now known as [Musirev](https://www.balada.io), a digital revenue management service for music distributors and labels.
 
+<span class="scala"/><span class="akka"/><span class="play"/><span class="pg"/><span class="hadoop"/>
+
 ### **Software Developer** • Lizeo Online Media Group • *2016 - 2018*
 
 I was involved in redesigning Lizeo’s data processing engine, transitioning from ETL and batch approaches to service-oriented and streaming techniques to enable scalability.
+
+<span class="scala"/><span class="akka"/><span class="play"/><span class="kafka"/><span class="spark"/>
 
 ## Education 📚
 
