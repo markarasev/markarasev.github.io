@@ -102,6 +102,14 @@ p {
     content: "Google Dataflow"
 }
 
+.graphql {
+    @include tag;
+    background-color: #38a269;
+}
+.graphql::after {
+    content: "GraphQL"
+}
+
 .hadoop {
     @include tag;
     background-color: #146d82;
@@ -132,6 +140,14 @@ p {
 }
 .play::after {
     content: "Play"
+}
+
+.pulsar {
+    @include tag;
+    background-color: #146d82;
+}
+.pulsar::after {
+    content: "Apache Pulsar"
 }
 
 .pg {

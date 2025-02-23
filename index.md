@@ -38,11 +38,23 @@ Additionally, I would prefer to work part-time on a **4 days workweek** basis.
 
 ## Experience 👨‍💻
 
+### **Senior Software Developer** • Swan • *2024 - 2025*
+
+Development of card acquiring features in [Swan](https://www.swan.io/)'s Bank-As-A-Service system, pushing **extreme programming** practices in the team like mob programming and **mentoring teammates**.
+
+<span class="scala"/><span class="ts"/><span class="kafka"/><span class="pg"/><span class="graphql"/>
+
 ### **Technical Lead** • Quansic • *2020 - 2024*
 
 I was part of [Quansic](https://quansic.com/), a music industry startup, from its early days to its [buyout by Luminate](https://luminatedata.com/blog/quansic-aquisition-press-release/), a preeminent entertainment data company. During this journey, I was deeply involved in designing and building Quansic's software system, **evolving it from a proof of concept to a robust ecosystem of products**. I also enjoyed sharing knowledge and training new teammates.
 
 <span class="scala"/><span class="ts"/><span class="neo4j"/><span class="pg"/><span class="beam"/><span class="df"/>
+
+### **Software Developer** • Eklaweb • *2020*
+
+Backend development and launch of [Free Ligue 1](https://www.free-foot.fr/), a soccer **near live** broadcast service with Android, iOS and TV apps, and **hundreds of thousands of users**.
+
+<span class="scala"/><span class="akka"/><span class="pulsar"/><span class="pg"/>
 
 ### **Software Developer** • Transparency Rights Management • *2018 - 2020*
 
