@@ -102,6 +102,14 @@ p {
     content: "Google Dataflow"
 }
 
+.elm {
+    @include tag;
+    background-color: #145e94;
+}
+.elm::after {
+    content: "Elm"
+}
+
 .graphql {
     @include tag;
     background-color: #38a269;
@@ -134,6 +142,14 @@ p {
     content: "Neo4J"
 }
 
+.nextjs {
+    @include tag;
+    background-color: #286c7c;
+}
+.nextjs::after {
+    content: "Next.js"
+}
+
 .play {
     @include tag;
     background-color: #38a269;
@@ -156,6 +172,14 @@ p {
 }
 .pg::after {
     content: "PostgreSQL"
+}
+
+.s3 {
+    @include tag;
+    background-color: #286c7c;
+}
+.s3::after {
+    content: "S3"
 }
 
 .scala {

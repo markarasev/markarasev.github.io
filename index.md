@@ -38,6 +38,18 @@ Additionally, I would prefer to work part-time on a **4 days workweek** basis.
 
 ## Experience 👨‍💻
 
+### **Senior Software Developer** • Reveality • *2025 - present*
+
+**Product definition** and development of [LaDocumenta](https://v2.ladocumenta.eu/), a resource-sharing platform for orchestras practicing HIP (Historically-Informed-Practice).
+
+<span class="scala"/><span class="ts"/><span class="nextjs"/><span class="pg"/><span class="s3"/>
+
+### **Senior Software Developer** • Squircles • *2025 - 2026*
+
+Development of [Mustcompliance.fr](https://mustcompliance.fr/), an **event-sourced** CRM system for asset management companies within an **XP team** (pair / mob programming / TDD / etc.) of **functional programmers**.
+
+<span class="scala"/><span class="elm"/><span class="pg"/><span class="s3"/><span class="pulsar"/>
+
 ### **Senior Software Developer** • Swan • *2024 - 2025*
 
 Development of card acquiring features in [Swan](https://www.swan.io/)'s Bank-As-A-Service system, pushing **extreme programming** practices in the team like mob programming and **mentoring teammates**.
@@ -54,13 +66,13 @@ I was part of [Quansic](https://quansic.com/), a music industry startup, from it
 
 Backend development and launch of [Free Ligue 1](https://www.free-foot.fr/), a soccer **near live** broadcast service with Android, iOS and TV apps, and **hundreds of thousands of users**.
 
-<span class="scala"/><span class="akka"/><span class="pulsar"/><span class="pg"/>
+<span class="scala"/><span class="akka"/><span class="pulsar"/><span class="pg"/><span class="s3"/>
 
 ### **Software Developer** • Transparency Rights Management • *2018 - 2020*
 
 I actively contributed to the development of Track&Claim Sales, now known as [Musirev](https://www.balada.io), a digital revenue management service for music distributors and labels.
 
-<span class="scala"/><span class="akka"/><span class="play"/><span class="pg"/><span class="hadoop"/>
+<span class="scala"/><span class="akka"/><span class="play"/><span class="pg"/><span class="hadoop"/><span class="s3"/>
 
 ### **Software Developer** • Lizeo Online Media Group • *2016 - 2018*
 
