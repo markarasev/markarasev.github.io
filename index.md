@@ -40,7 +40,7 @@ Additionally, I would prefer to work part-time on a **4 days workweek** basis.
 
 ### **Senior Software Developer** • Reveality • *2025 - present*
 
-**Product definition** and development of [LaDocumenta](https://v2.ladocumenta.eu/), a resource-sharing platform for orchestras practicing HIP (Historically-Informed-Practice).
+**Product definition** and development of [LaDocumenta](https://www.ladocumenta.eu/), a resource-sharing platform for orchestras practicing HIP (Historically-Informed-Practice).
 
 <span class="scala"/><span class="ts"/><span class="nextjs"/><span class="pg"/><span class="s3"/>
 
